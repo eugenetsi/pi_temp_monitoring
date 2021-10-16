@@ -1,0 +1,8 @@
+#!/bin/sh
+
+# CAUTION! NEVER EVER UPLOAD FILE LIKE SERIOUSLY PINKY SWEAR 
+
+export ELEM_ROOM="!asdasdasdasd:matrix.org"
+export ELEM_USR="@bot_account123:matrix.org"
+export ELEM_PSW="really_long_password"
+
