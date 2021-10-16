@@ -45,4 +45,4 @@ for usage details, or
 python3 monitor.py -l 90 # or python3 monitor.py --limit=90
 ```
 
-to set a limit. If no limit is privided it defaults to 80.
+to set a limit. If no limit is provided it defaults to 80.
